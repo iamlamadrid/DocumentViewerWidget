@@ -1,0 +1,11 @@
+.DocumentViewerWidget {
+
+}
+
+.DocumentViewerWidget-body {
+
+}
+
+.mx-groupbox .mx-groupbox-header + .mx-groupbox-body.DocumentViewerWidget-body.no-header {
+	border-top: 1px solid #DDD;
+}
